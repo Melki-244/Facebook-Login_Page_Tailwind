@@ -1,4 +1,4 @@
-# TailWind-Do-Zero
+# Página de Login Facebook - Com Tailwind e React
 
 ### Instale As Depndências 
 ```bash 
@@ -13,6 +13,4 @@ npm start
 
 ## Descrição Do Projeto 
 
-`O Foco Do Projeto é Aprender Tailwind do Zero, Pra Isso Eu Criei Um React-App E Configurei O Tailwind Pra Rodar Nele O Foco Aqui Não é React Mas Sim TailWind-Do-Zero.
-Aqui Estarão Tentativas e Erros, Talvez mais Erros Porque O Foco é Aprender 😉.
-`
+#### Aqui Ficará A Descrição do Projeto 
